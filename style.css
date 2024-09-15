@@ -61,6 +61,7 @@ img {
 
 body {
     font-family:"Outfit",sans-serif;
+    font-style:normal;
     background-color:  var(--slate300);
     align-items:center;
     justify-content:center;
@@ -74,9 +75,9 @@ main .container {
     border-radius: 20px;
     box-shadow: 10px 10px rgba(0,0,0,0);
 margin-top:100px;
-padding:15px;
-padding-right:35px;
-max-width:500px;
+padding:5px;
+padding-right:25px;
+max-width:375px;
 
 }
 
@@ -94,13 +95,17 @@ footer .attribution {
 h1 {
     color: var(--slate900);
     text-align:center;
-    font-size:2.2rem;
-    padding:10px
+    font-weight:700;
+    font-size:1.5rem;
+    padding:15px;
 }
 
 p {
    color: var( --slate500);
    text-align:center;
-   padding:20px;
-   font-size:1.5rem;
+   font-weight:400;
+   font-size:1rem;
+   padding:5px 35px 45px 35px;
+ 
+   
 }
