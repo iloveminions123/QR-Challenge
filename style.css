@@ -66,6 +66,7 @@ body {
     align-items:center;
     justify-content:center;
     display:flex;
+    min-height:100vh;
     flex-direction:column;
 }
 
@@ -74,7 +75,7 @@ main .container {
     background-color: var(--white);
     border-radius: 20px;
     box-shadow: 10px 10px rgba(0,0,0,0);
-margin-top:100px;
+margin-top:200px;
 padding:5px;
 padding-right:25px;
 max-width:375px;
