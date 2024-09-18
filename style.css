@@ -37,7 +37,6 @@ textarea {
   white-space: revert;
 }
 
-
 :root {
   --white: hsl(0, 0%, 100%);
   --slate300: hsl(212, 45%, 89%);
@@ -46,7 +45,7 @@ textarea {
 }
 
 img {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 * {
@@ -61,7 +60,7 @@ body {
   justify-content: center;
   display: flex;
   flex-direction: column;
-  padding:100px;
+  padding: 100px;
   min-height: 100vh;
 }
 
@@ -70,9 +69,9 @@ body {
   background-color: var(--white);
   border-radius: 20px;
   box-shadow: 10px 10px rgba(0, 0, 0, 0);
-  padding: 15px;
+  padding: 17px;
   max-width: 20rem;
-  margin:100px;
+  margin: 100px;
 }
 
 .attribution {
@@ -87,15 +86,15 @@ body {
 h2 {
   color: var(--slate900);
   text-align: center;
-  font-weight:700;
+  font-weight: 700;
   font-size: 1.37rem;
-  padding: 15px 10px;
+  padding: 20px 10px;
 }
 
 p {
   color: var(--slate500);
   text-align: center;
   font-weight: 400;
-  font-size: .95rem;
+  font-size: 0.95rem;
   padding: 0px 15px 25px 15px;
 }
