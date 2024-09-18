@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: https://iloveminions123.github.io/QR-Challenge/
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-challenge-using-html-and-css-WlpKmSV_yq)
+- Live Site URL: (https://iloveminions123.github.io/QR-Challenge/)
 
 ## My process
 
